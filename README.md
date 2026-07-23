@@ -26,4 +26,3 @@ The project demonstrates a production-style DevOps lifecycle using:
 ---
 
 # 🏗️ Architecture Overview
-
