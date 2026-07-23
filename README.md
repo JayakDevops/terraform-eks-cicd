@@ -24,5 +24,3 @@ The project demonstrates a production-style DevOps lifecycle using:
 - Monitoring and observability (Prometheus & Grafana)
 
 ---
-
-# 🏗️ Architecture Overview
